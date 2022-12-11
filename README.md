@@ -10,4 +10,4 @@
 
 Улучшить адаптивность интерфейса и добавить контент на английском языке
 ## Ссылка на GitHubProject:  
-[Научиться учиться](https://qvanchik57.github.io/how-to-learn/)
+[Путешествия по России](https://qvanchik57.github.io/russian-travel/)
